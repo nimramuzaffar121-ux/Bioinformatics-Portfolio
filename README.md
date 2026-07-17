@@ -106,9 +106,4 @@
 
 
 
-&#x20;**Future Work**
-
-
-
-*In the next project, this sequence will be translated into a protein sequence and analyzed using bioinformatics tools.*
 
